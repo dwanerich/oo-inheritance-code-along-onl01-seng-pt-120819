@@ -16,3 +16,7 @@ class Vehicle
   end
 
 end
+
+class Car < Vehicle
+
+end
